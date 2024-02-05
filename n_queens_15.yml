@@ -25,7 +25,7 @@ spec:
         kind: Job
         metadata:
           namespace: default
-          name: nqueens-4
+          name: nqueens-15
           labels:
             job: n-queens
         spec:
